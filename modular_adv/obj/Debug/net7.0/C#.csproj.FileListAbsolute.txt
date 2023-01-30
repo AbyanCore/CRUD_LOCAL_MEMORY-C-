@@ -1,0 +1,15 @@
+/home/abyan/Documents/Code/C#/modular_adv/bin/Debug/net7.0/C#
+/home/abyan/Documents/Code/C#/modular_adv/bin/Debug/net7.0/C#.deps.json
+/home/abyan/Documents/Code/C#/modular_adv/bin/Debug/net7.0/C#.runtimeconfig.json
+/home/abyan/Documents/Code/C#/modular_adv/bin/Debug/net7.0/C#.dll
+/home/abyan/Documents/Code/C#/modular_adv/bin/Debug/net7.0/C#.pdb
+/home/abyan/Documents/Code/C#/modular_adv/obj/Debug/net7.0/C#.csproj.AssemblyReference.cache
+/home/abyan/Documents/Code/C#/modular_adv/obj/Debug/net7.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/abyan/Documents/Code/C#/modular_adv/obj/Debug/net7.0/C#.AssemblyInfoInputs.cache
+/home/abyan/Documents/Code/C#/modular_adv/obj/Debug/net7.0/C#.AssemblyInfo.cs
+/home/abyan/Documents/Code/C#/modular_adv/obj/Debug/net7.0/C#.csproj.CoreCompileInputs.cache
+/home/abyan/Documents/Code/C#/modular_adv/obj/Debug/net7.0/C#.dll
+/home/abyan/Documents/Code/C#/modular_adv/obj/Debug/net7.0/refint/C#.dll
+/home/abyan/Documents/Code/C#/modular_adv/obj/Debug/net7.0/C#.pdb
+/home/abyan/Documents/Code/C#/modular_adv/obj/Debug/net7.0/C#.genruntimeconfig.cache
+/home/abyan/Documents/Code/C#/modular_adv/obj/Debug/net7.0/ref/C#.dll

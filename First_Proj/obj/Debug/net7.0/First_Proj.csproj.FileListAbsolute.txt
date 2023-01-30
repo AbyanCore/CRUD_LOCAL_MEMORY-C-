@@ -1,0 +1,15 @@
+/home/abyan/Documents/Code/C#/First_Proj/bin/Debug/net7.0/First_Proj
+/home/abyan/Documents/Code/C#/First_Proj/bin/Debug/net7.0/First_Proj.deps.json
+/home/abyan/Documents/Code/C#/First_Proj/bin/Debug/net7.0/First_Proj.runtimeconfig.json
+/home/abyan/Documents/Code/C#/First_Proj/bin/Debug/net7.0/First_Proj.dll
+/home/abyan/Documents/Code/C#/First_Proj/bin/Debug/net7.0/First_Proj.pdb
+/home/abyan/Documents/Code/C#/First_Proj/obj/Debug/net7.0/First_Proj.csproj.AssemblyReference.cache
+/home/abyan/Documents/Code/C#/First_Proj/obj/Debug/net7.0/First_Proj.GeneratedMSBuildEditorConfig.editorconfig
+/home/abyan/Documents/Code/C#/First_Proj/obj/Debug/net7.0/First_Proj.AssemblyInfoInputs.cache
+/home/abyan/Documents/Code/C#/First_Proj/obj/Debug/net7.0/First_Proj.AssemblyInfo.cs
+/home/abyan/Documents/Code/C#/First_Proj/obj/Debug/net7.0/First_Proj.csproj.CoreCompileInputs.cache
+/home/abyan/Documents/Code/C#/First_Proj/obj/Debug/net7.0/First_Proj.dll
+/home/abyan/Documents/Code/C#/First_Proj/obj/Debug/net7.0/refint/First_Proj.dll
+/home/abyan/Documents/Code/C#/First_Proj/obj/Debug/net7.0/First_Proj.pdb
+/home/abyan/Documents/Code/C#/First_Proj/obj/Debug/net7.0/First_Proj.genruntimeconfig.cache
+/home/abyan/Documents/Code/C#/First_Proj/obj/Debug/net7.0/ref/First_Proj.dll

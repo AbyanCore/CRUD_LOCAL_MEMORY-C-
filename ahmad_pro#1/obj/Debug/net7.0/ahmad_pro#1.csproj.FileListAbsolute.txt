@@ -1,0 +1,15 @@
+/home/abyan/Documents/Code/C#/ahmad_pro#1/obj/Debug/net7.0/ahmad_pro#1.csproj.AssemblyReference.cache
+/home/abyan/Documents/Code/C#/ahmad_pro#1/obj/Debug/net7.0/ahmad_pro#1.GeneratedMSBuildEditorConfig.editorconfig
+/home/abyan/Documents/Code/C#/ahmad_pro#1/obj/Debug/net7.0/ahmad_pro#1.AssemblyInfoInputs.cache
+/home/abyan/Documents/Code/C#/ahmad_pro#1/obj/Debug/net7.0/ahmad_pro#1.AssemblyInfo.cs
+/home/abyan/Documents/Code/C#/ahmad_pro#1/obj/Debug/net7.0/ahmad_pro#1.csproj.CoreCompileInputs.cache
+/home/abyan/Documents/Code/C#/ahmad_pro#1/bin/Debug/net7.0/ahmad_pro#1
+/home/abyan/Documents/Code/C#/ahmad_pro#1/bin/Debug/net7.0/ahmad_pro#1.deps.json
+/home/abyan/Documents/Code/C#/ahmad_pro#1/bin/Debug/net7.0/ahmad_pro#1.runtimeconfig.json
+/home/abyan/Documents/Code/C#/ahmad_pro#1/bin/Debug/net7.0/ahmad_pro#1.dll
+/home/abyan/Documents/Code/C#/ahmad_pro#1/bin/Debug/net7.0/ahmad_pro#1.pdb
+/home/abyan/Documents/Code/C#/ahmad_pro#1/obj/Debug/net7.0/ahmad_pro#1.dll
+/home/abyan/Documents/Code/C#/ahmad_pro#1/obj/Debug/net7.0/refint/ahmad_pro#1.dll
+/home/abyan/Documents/Code/C#/ahmad_pro#1/obj/Debug/net7.0/ahmad_pro#1.pdb
+/home/abyan/Documents/Code/C#/ahmad_pro#1/obj/Debug/net7.0/ahmad_pro#1.genruntimeconfig.cache
+/home/abyan/Documents/Code/C#/ahmad_pro#1/obj/Debug/net7.0/ref/ahmad_pro#1.dll
